@@ -3,7 +3,7 @@ import json
 import customtkinter as ctk
 import tkinter as tk
 import tkinter.messagebox as messagebox
-from tkinter import filedialog
+from tkinter import PhotoImage, filedialog
 from txt_add import add_text_to_image
 
 def get_font_paths(font_dirs):
@@ -156,12 +156,25 @@ def main():
     # Default font directories
     font_dirs = [r"C:\Windows\Fonts", r"Fonts"]
 
+    # Set the appearance and color theme
     ctk.set_appearance_mode("dark")
     ctk.set_default_color_theme("blue")
+
+    # Initialize the app
     app = ctk.CTk()
+
+    # Set window size, title, and other properties
     app.geometry("500x700")
-    app.title("OverGen")
+    app.title("ScoreGen")
     app.resizable(False, False)
+
+    # Set the window icon (for .ico files, you can use PhotoImage for .png files or ctk.CTkImage)
+
+
+    try:
+        app.iconbitmap(r"C:\Users\Rush\Music\Score_Gen\Peach Emoji.ico")
+    except Exception as e:
+        print(f"Error setting window icon: {e}")
 
     # Scrollable Frame
     scrollable_frame = ctk.CTkScrollableFrame(app)
