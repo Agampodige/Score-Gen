@@ -1,6 +1,11 @@
-# ScoreGen
+<h1 align="center"> ScoreGen</h1>
 
 ScoreGen is a customizable live scoreboard overlay generator for streamers. This application allows users to create dynamic and personalized scoreboard overlays with real-time score updates for their live streams.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a1a73506-1f0a-4c40-92b9-a9b09a9a4bc7" width="300" />
+</p>
+
 
 ## Features
 
