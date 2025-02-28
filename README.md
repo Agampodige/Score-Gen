@@ -9,7 +9,7 @@ ScoreGen is a customizable live scoreboard overlay generator for streamers. This
 
 ## Features
 
-- Add custom text for each player (Luwes, Anthony, Julien, Joseph).
+- Add custom text for each player (Lewis , Anthony, Julien, Joseph).
 - Choose from system-installed or custom fonts.
 - Set font size for text.
 - Select an overlay image (e.g., for background).

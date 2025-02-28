@@ -1,7 +1,14 @@
 {
-    "Luwes": [150, 50],
-    "Anthony": [100, 150],
-    "Julien": [150, 250],
-    "Joseph": [200, 350]
-  }
-  
+    "text_positions": {
+        "Lewis ": [960, 50],
+        "Anthony": [960, 150],
+        "Julien": [960, 250],
+        "Joseph": [960, 350]
+    },
+    "value_positions": {
+        "Lewis ": [1500, 500],
+        "Anthony": [1500, 750],
+        "Julien": [1500, 850],
+        "Joseph": [1500, 900]
+    }
+}

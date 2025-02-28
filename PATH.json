@@ -1,6 +1,6 @@
 {
-    "overlay_image_path": "C:/Users/Rush/Downloads/cfza.png",
-    "leaderboard_image_path": "C:/Users/Rush/Downloads/123123.png",
+    "overlay_image_path": "Score board.png",
+    "leaderboard_image_path": "Leadrebord.png",
     "overlay_positions_file_path": "C:/Users/Rush/Music/Score_Gen/overlay_positions.json",
     "leaderboard_positions_file_path": "C:/Users/Rush/Music/Score_Gen/leaderboard_positions.json",
     "output_folder": "C:/Users/Rush/Downloads"
